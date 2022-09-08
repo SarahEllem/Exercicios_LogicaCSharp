@@ -8,6 +8,7 @@ Neste repositório estão alguns dos exercícios que eu resolvi, a fim de aprimo
 
 ## Lista de Exercícios
 1. [Exercício - Locadora de Carros](https://github.com/SarahEllem/Exercicios_LogicaCSharp/tree/main/Exercicios_CSharp/exercicio_locadoraDeCarros)
+2. [Exercício - Tempo de Vida de Fumantes](https://github.com/SarahEllem/Exercicios_LogicaCSharp/tree/main/Exercicios_CSharp/exercicio_tempoDeVidaFumantes)
 
 ## Características
 Cada exercício terá um README explicando um pouco mais sobre sobre ele, pontuando suas características e funcionalidades.
