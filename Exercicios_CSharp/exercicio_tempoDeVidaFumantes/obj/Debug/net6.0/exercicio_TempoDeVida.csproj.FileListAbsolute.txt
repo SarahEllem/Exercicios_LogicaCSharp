@@ -1,0 +1,15 @@
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_TempoDeVida\bin\Debug\net6.0\exercicio_TempoDeVida.exe
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_TempoDeVida\bin\Debug\net6.0\exercicio_TempoDeVida.deps.json
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_TempoDeVida\bin\Debug\net6.0\exercicio_TempoDeVida.runtimeconfig.json
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_TempoDeVida\bin\Debug\net6.0\exercicio_TempoDeVida.dll
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_TempoDeVida\bin\Debug\net6.0\exercicio_TempoDeVida.pdb
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_TempoDeVida\obj\Debug\net6.0\exercicio_TempoDeVida.csproj.AssemblyReference.cache
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_TempoDeVida\obj\Debug\net6.0\exercicio_TempoDeVida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_TempoDeVida\obj\Debug\net6.0\exercicio_TempoDeVida.AssemblyInfoInputs.cache
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_TempoDeVida\obj\Debug\net6.0\exercicio_TempoDeVida.AssemblyInfo.cs
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_TempoDeVida\obj\Debug\net6.0\exercicio_TempoDeVida.csproj.CoreCompileInputs.cache
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_TempoDeVida\obj\Debug\net6.0\exercicio_TempoDeVida.dll
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_TempoDeVida\obj\Debug\net6.0\refint\exercicio_TempoDeVida.dll
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_TempoDeVida\obj\Debug\net6.0\exercicio_TempoDeVida.pdb
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_TempoDeVida\obj\Debug\net6.0\exercicio_TempoDeVida.genruntimeconfig.cache
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_TempoDeVida\obj\Debug\net6.0\ref\exercicio_TempoDeVida.dll
