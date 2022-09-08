@@ -1,4 +1,4 @@
-## Exercício Locação de carros
+# Exercício Locadora de carros
 O objetivo desse exercício é calcular o preço total que um cliente deverá pagar a uma locadora de carros.
 
 #### Enunciado do exercício:
