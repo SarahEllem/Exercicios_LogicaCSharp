@@ -1,0 +1,15 @@
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_calculadoraDeMulta\bin\Debug\net6.0\exercicio_calculadoraDeMulta.exe
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_calculadoraDeMulta\bin\Debug\net6.0\exercicio_calculadoraDeMulta.deps.json
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_calculadoraDeMulta\bin\Debug\net6.0\exercicio_calculadoraDeMulta.runtimeconfig.json
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_calculadoraDeMulta\bin\Debug\net6.0\exercicio_calculadoraDeMulta.dll
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_calculadoraDeMulta\bin\Debug\net6.0\exercicio_calculadoraDeMulta.pdb
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_calculadoraDeMulta\obj\Debug\net6.0\exercicio_calculadoraDeMulta.csproj.AssemblyReference.cache
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_calculadoraDeMulta\obj\Debug\net6.0\exercicio_calculadoraDeMulta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_calculadoraDeMulta\obj\Debug\net6.0\exercicio_calculadoraDeMulta.AssemblyInfoInputs.cache
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_calculadoraDeMulta\obj\Debug\net6.0\exercicio_calculadoraDeMulta.AssemblyInfo.cs
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_calculadoraDeMulta\obj\Debug\net6.0\exercicio_calculadoraDeMulta.csproj.CoreCompileInputs.cache
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_calculadoraDeMulta\obj\Debug\net6.0\exercicio_calculadoraDeMulta.dll
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_calculadoraDeMulta\obj\Debug\net6.0\refint\exercicio_calculadoraDeMulta.dll
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_calculadoraDeMulta\obj\Debug\net6.0\exercicio_calculadoraDeMulta.pdb
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_calculadoraDeMulta\obj\Debug\net6.0\exercicio_calculadoraDeMulta.genruntimeconfig.cache
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_calculadoraDeMulta\obj\Debug\net6.0\ref\exercicio_calculadoraDeMulta.dll
