@@ -1,0 +1,15 @@
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_locadoraDeCarros\bin\Debug\net6.0\exercicio_locadoraDeCarros.exe
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_locadoraDeCarros\bin\Debug\net6.0\exercicio_locadoraDeCarros.deps.json
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_locadoraDeCarros\bin\Debug\net6.0\exercicio_locadoraDeCarros.runtimeconfig.json
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_locadoraDeCarros\bin\Debug\net6.0\exercicio_locadoraDeCarros.dll
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_locadoraDeCarros\bin\Debug\net6.0\exercicio_locadoraDeCarros.pdb
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_locadoraDeCarros\obj\Debug\net6.0\exercicio_locadoraDeCarros.csproj.AssemblyReference.cache
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_locadoraDeCarros\obj\Debug\net6.0\exercicio_locadoraDeCarros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_locadoraDeCarros\obj\Debug\net6.0\exercicio_locadoraDeCarros.AssemblyInfoInputs.cache
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_locadoraDeCarros\obj\Debug\net6.0\exercicio_locadoraDeCarros.AssemblyInfo.cs
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_locadoraDeCarros\obj\Debug\net6.0\exercicio_locadoraDeCarros.csproj.CoreCompileInputs.cache
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_locadoraDeCarros\obj\Debug\net6.0\exercicio_locadoraDeCarros.dll
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_locadoraDeCarros\obj\Debug\net6.0\refint\exercicio_locadoraDeCarros.dll
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_locadoraDeCarros\obj\Debug\net6.0\exercicio_locadoraDeCarros.pdb
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_locadoraDeCarros\obj\Debug\net6.0\exercicio_locadoraDeCarros.genruntimeconfig.cache
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_locadoraDeCarros\obj\Debug\net6.0\ref\exercicio_locadoraDeCarros.dll
