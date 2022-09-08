@@ -1,4 +1,4 @@
-## Exercícios de Lógica de Programação em C#
+# Exercícios de Lógica de Programação em C#
 Neste repositório estão alguns dos exercícios que eu resolvi, a fim de aprimorar a minha lógica e praticar os conceitos da lógica de programação usando a linguagem C#.
 
 ## Tecnologias
