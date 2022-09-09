@@ -10,7 +10,7 @@ Neste repositório estão alguns dos exercícios que eu resolvi, a fim de aprimo
 1. [Exercício - Locadora de Carros](https://github.com/SarahEllem/Exercicios_LogicaCSharp/tree/main/Exercicios_CSharp/exercicio_locadoraDeCarros)
 2. [Exercício - Tempo de Vida de Fumantes](https://github.com/SarahEllem/Exercicios_LogicaCSharp/tree/main/Exercicios_CSharp/exercicio_tempoDeVidaFumantes)
 3. [Exercício - Calculadora de Multas](https://github.com/SarahEllem/Exercicios_LogicaCSharp/tree/main/Exercicios_CSharp/exercicio_calculadoraDeMulta)
-4.
+4. [Exercício - Calcular Idade Eleitoral](https://github.com/SarahEllem/Exercicios_LogicaCSharp/tree/main/Exercicios_CSharp/exercicio_calc-IdadeEleitoral)
 
 ## Características
 Cada exercício terá um README explicando um pouco mais sobre sobre ele, pontuando suas características e funcionalidades.
