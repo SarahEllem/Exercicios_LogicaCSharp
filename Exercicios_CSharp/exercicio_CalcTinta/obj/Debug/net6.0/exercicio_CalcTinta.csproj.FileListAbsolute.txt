@@ -1,0 +1,15 @@
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_CalcTinta\bin\Debug\net6.0\exercicio_CalcTinta.exe
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_CalcTinta\bin\Debug\net6.0\exercicio_CalcTinta.deps.json
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_CalcTinta\bin\Debug\net6.0\exercicio_CalcTinta.runtimeconfig.json
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_CalcTinta\bin\Debug\net6.0\exercicio_CalcTinta.dll
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_CalcTinta\bin\Debug\net6.0\exercicio_CalcTinta.pdb
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_CalcTinta\obj\Debug\net6.0\exercicio_CalcTinta.csproj.AssemblyReference.cache
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_CalcTinta\obj\Debug\net6.0\exercicio_CalcTinta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_CalcTinta\obj\Debug\net6.0\exercicio_CalcTinta.AssemblyInfoInputs.cache
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_CalcTinta\obj\Debug\net6.0\exercicio_CalcTinta.AssemblyInfo.cs
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_CalcTinta\obj\Debug\net6.0\exercicio_CalcTinta.csproj.CoreCompileInputs.cache
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_CalcTinta\obj\Debug\net6.0\exercicio_CalcTinta.dll
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_CalcTinta\obj\Debug\net6.0\refint\exercicio_CalcTinta.dll
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_CalcTinta\obj\Debug\net6.0\exercicio_CalcTinta.pdb
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_CalcTinta\obj\Debug\net6.0\exercicio_CalcTinta.genruntimeconfig.cache
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_CalcTinta\obj\Debug\net6.0\ref\exercicio_CalcTinta.dll
