@@ -1,0 +1,15 @@
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_numeroAntecSuces\bin\Debug\net6.0\exercicio_numeroAntecSuces.exe
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_numeroAntecSuces\bin\Debug\net6.0\exercicio_numeroAntecSuces.deps.json
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_numeroAntecSuces\bin\Debug\net6.0\exercicio_numeroAntecSuces.runtimeconfig.json
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_numeroAntecSuces\bin\Debug\net6.0\exercicio_numeroAntecSuces.dll
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_numeroAntecSuces\bin\Debug\net6.0\exercicio_numeroAntecSuces.pdb
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_numeroAntecSuces\obj\Debug\net6.0\exercicio_numeroAntecSuces.csproj.AssemblyReference.cache
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_numeroAntecSuces\obj\Debug\net6.0\exercicio_numeroAntecSuces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_numeroAntecSuces\obj\Debug\net6.0\exercicio_numeroAntecSuces.AssemblyInfoInputs.cache
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_numeroAntecSuces\obj\Debug\net6.0\exercicio_numeroAntecSuces.AssemblyInfo.cs
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_numeroAntecSuces\obj\Debug\net6.0\exercicio_numeroAntecSuces.csproj.CoreCompileInputs.cache
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_numeroAntecSuces\obj\Debug\net6.0\exercicio_numeroAntecSuces.dll
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_numeroAntecSuces\obj\Debug\net6.0\refint\exercicio_numeroAntecSuces.dll
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_numeroAntecSuces\obj\Debug\net6.0\exercicio_numeroAntecSuces.pdb
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_numeroAntecSuces\obj\Debug\net6.0\exercicio_numeroAntecSuces.genruntimeconfig.cache
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_numeroAntecSuces\obj\Debug\net6.0\ref\exercicio_numeroAntecSuces.dll

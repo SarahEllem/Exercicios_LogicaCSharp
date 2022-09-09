@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exercicio_numeroAntecSuces", "exercicio_numeroAntecSuces.csproj", "{7E4F2547-0629-44D9-9258-5290781A4A3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exercicio_CalcTinta", "..\exercicio_CalcTinta\exercicio_CalcTinta.csproj", "{A60C8C9F-C208-4099-9735-96CEC5100E49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E4F2547-0629-44D9-9258-5290781A4A3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E4F2547-0629-44D9-9258-5290781A4A3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E4F2547-0629-44D9-9258-5290781A4A3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E4F2547-0629-44D9-9258-5290781A4A3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A60C8C9F-C208-4099-9735-96CEC5100E49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A60C8C9F-C208-4099-9735-96CEC5100E49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A60C8C9F-C208-4099-9735-96CEC5100E49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A60C8C9F-C208-4099-9735-96CEC5100E49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82412170-FFBD-4A32-A393-E556D30EF244}
+	EndGlobalSection
+EndGlobal
