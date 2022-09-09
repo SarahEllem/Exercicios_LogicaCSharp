@@ -1,0 +1,15 @@
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_calc-IdadeEleitoral\bin\Debug\net6.0\exercicio_calc-IdadeEleitoral.exe
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_calc-IdadeEleitoral\bin\Debug\net6.0\exercicio_calc-IdadeEleitoral.deps.json
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_calc-IdadeEleitoral\bin\Debug\net6.0\exercicio_calc-IdadeEleitoral.runtimeconfig.json
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_calc-IdadeEleitoral\bin\Debug\net6.0\exercicio_calc-IdadeEleitoral.dll
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_calc-IdadeEleitoral\bin\Debug\net6.0\exercicio_calc-IdadeEleitoral.pdb
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_calc-IdadeEleitoral\obj\Debug\net6.0\exercicio_calc-IdadeEleitoral.csproj.AssemblyReference.cache
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_calc-IdadeEleitoral\obj\Debug\net6.0\exercicio_calc-IdadeEleitoral.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_calc-IdadeEleitoral\obj\Debug\net6.0\exercicio_calc-IdadeEleitoral.AssemblyInfoInputs.cache
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_calc-IdadeEleitoral\obj\Debug\net6.0\exercicio_calc-IdadeEleitoral.AssemblyInfo.cs
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_calc-IdadeEleitoral\obj\Debug\net6.0\exercicio_calc-IdadeEleitoral.csproj.CoreCompileInputs.cache
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_calc-IdadeEleitoral\obj\Debug\net6.0\exercicio_calc-IdadeEleitoral.dll
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_calc-IdadeEleitoral\obj\Debug\net6.0\refint\exercicio_calc-IdadeEleitoral.dll
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_calc-IdadeEleitoral\obj\Debug\net6.0\exercicio_calc-IdadeEleitoral.pdb
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_calc-IdadeEleitoral\obj\Debug\net6.0\exercicio_calc-IdadeEleitoral.genruntimeconfig.cache
+C:\Users\sarah\Desktop\Workspace_C-Sharp\Exercicios_CSharp\exercicio_calc-IdadeEleitoral\obj\Debug\net6.0\ref\exercicio_calc-IdadeEleitoral.dll
